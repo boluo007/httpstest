@@ -1,4 +1,8 @@
 ddddd
 11111
 aaaaabbbbb
+<<<<<<< HEAD
 77777
+=======
+666666
+>>>>>>> da70cb0b0980ce6ce2085286fdcd98065bcf5746
